@@ -22,3 +22,4 @@ Vue.use(rtyVueUi)
 ``` html
 <rty-button></rty-button>
 ```
+ 
